@@ -1,0 +1,41 @@
+name: ekanisa
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_analytics:
+  firebase_core_web:
+  firebase_crashlytics: ^3.3.7
+  firebase_auth: ^4.10.1
+  firebase_database: ^10.2.7  
+  redacted: ^1.0.11
+  dio: ^5.3.3
+  url_launcher: ^6.1.14
+  firebase_auth_web:
+  cupertino_icons: ^1.0.2
+  cached_network_image_builder: ^0.2.0
+  cached_network_image: ^3.3.1
+  flutter_riverpod: ^2.4.5
+  flutter_launcher_icons: ^0.13.1
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
+  get: ^4.6.6
+  build_runner: any
+  build_web_compilers: ^4.0.4
+  intl: ^0.19.0
+  intl_phone_field: ^3.2.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true

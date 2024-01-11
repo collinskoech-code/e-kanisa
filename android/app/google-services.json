@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660096522423",
+    "project_id": "ekanisa",
+    "storage_bucket": "ekanisa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660096522423:android:d97169a5a766ea17a1d532",
+        "android_client_info": {
+          "package_name": "com.example.ekanisa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsoJCfYzNB-tb1shULkdEH-cXT4C0a6LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
